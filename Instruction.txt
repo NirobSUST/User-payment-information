@@ -1,0 +1,5 @@
+How to run:
+
+1. Open the folder in vs code
+2. In terminal: Write this command
+	nodemon app.js
